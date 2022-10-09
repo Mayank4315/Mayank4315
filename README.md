@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayank4315
 - 👀 I’m interested in ...#Web-Dvelopment
 - 🌱 I’m currently learning ...Full Stack Javascript Web Developer
-- 💞️ I’m Open TO Work ...
+- 💞️ I’m Open To Work ...
 - 📫 How to reach me ...kashyapmayank932@gmail.com
 
 <!---
